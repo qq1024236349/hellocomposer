@@ -1,0 +1,8 @@
+{
+    "name": "xionggang/hellocomposer",
+    "description": "this is a demo for create composer",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
