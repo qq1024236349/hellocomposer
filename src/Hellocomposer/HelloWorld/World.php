@@ -7,7 +7,7 @@
  */
 namespace Hellocomposer\HelloWorld;
 
-class Hello
+class World
 {
 	public static function info()
 	{
