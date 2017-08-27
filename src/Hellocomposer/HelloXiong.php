@@ -2,7 +2,7 @@
 
 namespace Hellocomposer;
 
-class Hello
+class HelloXiong
 {
 	public static function info()
 	{
